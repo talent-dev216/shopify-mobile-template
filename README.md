@@ -66,31 +66,3 @@ Run the app:
 ```sh
 yarn start
 ```
-
-## Background and Motivation
-
-Imagine you’re a store owner and you sell products online using the Shopify platform. Life is good, you have a fantastic website and customers love your products. Shopify provides you with an incredible administrative interface to manage your site’s content, products, pricing, photos, inventory and orders. But you don’t have a native mobile app on iOS or Android!
-
-Customers have asked you about a mobile app but so far you’ve told them to just use the website from their phone. Your web-store is mobile friendly and it works pretty well, but it’s not the true mobile experience your customers expect.
-
-Sellflow is a pre-built mobile app that you can customize to fit your brand and then deploy your own custom mobile commerce app to the Apple App Store or Google Play Store. You can think of it like a “template” that you might use to build your mobile app.
-
-Sellflow is just the “frontend” — the customer interface — it works with Shopify’s “headless mode”, technically the [Storefront API](https://help.shopify.com/en/api/storefront-api). You as the merchant still use Shopify’s admin interface as normal to manage your products, inventory and orders.
-
-## How to Contribute
-
-- Fork the repository.
-- Follow the Getting Started instructions above.
-- Use your favorite code editor to develop a feature or fix.
-- Commit your change to a branch.
-- Run the tests:
-  `yarn test-full`
-- Push to your fork and create a PR.
-
-## Professional Support
-
-With official support, you get expert help straight from the core team. We provide dedicated support, prioritize feature requests, deployment strategies, advice on best practices, design decisions, and team augmentation. Reach out to us for consulting at support@kodefox.com.
-
-## License
-
-MIT. Copyright (c) [KodeFox, Inc.](https://github.com/kodefox)
